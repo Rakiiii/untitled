@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/C_Projects/untitled/SmurfIOLib.c
+SmurfIOLib.h
+C:/C_Projects/untitled/SmurfIOLib.h
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+windows.h
+-
+windef.h
+-
+
+C:/C_Projects/untitled/SmurfIOLib.h
+
